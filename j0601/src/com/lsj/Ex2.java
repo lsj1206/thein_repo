@@ -1,4 +1,4 @@
-package proj_ex1;
+package com.lsj;
 
 public class Ex2 {
 
