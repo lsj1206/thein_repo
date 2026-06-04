@@ -1,4 +1,4 @@
-package com.lsj_2;
+package com.lsj_abst;
 
 class Cat extends Animal  {
 

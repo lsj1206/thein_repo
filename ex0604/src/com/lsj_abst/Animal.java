@@ -1,4 +1,4 @@
-package com.lsj_2;
+package com.lsj_abst;
 
 abstract class Animal {
 	protected static String className = "=== 동물 클래스 ===";
